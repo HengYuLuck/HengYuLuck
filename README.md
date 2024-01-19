@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm HengYu, a developer who loves life. Welcome to my GitHub profile.
+### hi I'm HengYu, a developer who loves life. Welcome to my GitHub profile.
 
 ## About Me
 

@@ -64,7 +64,19 @@ Here are some ideas to get you started:
 </td>
 <td valign="top" width="33%">
 
-#### DevOps
 
+#### DevOps
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+</div>
+
+作者：Livingbody
+链接：https://juejin.cn/post/7127314515795902501
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 | <a href="https://github.com/HengYuLuck/HengYuLuck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=HengYuLuck&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /><img align="center" src="https://bad-apple-github-readme.vercel.app/api??show_bg=1&username=HengYuLuck&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HengYuLuck's github stats" /></pictulre></a> | <a href="https://github.com/HengYuLuck/HengYuLuck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HengYuLuck&theme=tokyonight&hide_border=true&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HengYuLuck&theme=buefy&hide_border=true&layout=compact" /></picture></a> |
 | ------------- | ------------- |

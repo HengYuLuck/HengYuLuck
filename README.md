@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
 </div>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/livingbody/count.svg) visitor, Thank You!🎉🎉
+You are my ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=HengYuLuck.HengYuLuck) visitor, Thank You!🎉🎉
 
 | <a href="https://github.com/HengYuLuck/HengYuLuck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=HengYuLuck&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /><img align="center" src="https://bad-apple-github-readme.vercel.app/api??show_bg=1&username=HengYuLuck&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HengYuLuck's github stats" /></pictulre></a> | <a href="https://github.com/HengYuLuck/HengYuLuck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HengYuLuck&theme=tokyonight&hide_border=true&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HengYuLuck&theme=buefy&hide_border=true&layout=compact" /></picture></a> |
 | ------------- | ------------- |

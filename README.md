@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 #### Frontend
-<div align="center">
+<div align="left">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <td valign="top" width="33%">
 
 #### Backend
-<div align="center">
+<div align="left">
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /> -->
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 #### DevOps
-<div align="center">
+<div align="left">
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
